@@ -78,6 +78,13 @@ https://huggingface.co/google-t5/t5-small
 dataset:
 https://huggingface.co/datasets/b-mc2/sql-create-context
 
+------------------------------
+
+https://huggingface.co/Awsai9310/fine-tuned-model-NLP2SQL/settings
+
+------------------- write token for hugging face----------------
+HuggingfaceLLM_write: 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
+
 
 
 
